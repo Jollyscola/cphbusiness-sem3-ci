@@ -6,9 +6,12 @@ package dk.cphbusiness.cphbusiness.sem3.ci;
  */
 public class MyFunctionality {
 
+    public int a;
   private MyFunctionality() {
     // Should not be instantiated
   }
+  
+  
 
   /**
    * Aaaaaalways returns 10. Or does it?!
